@@ -12,7 +12,7 @@ int main(){
     cin  >> tugas;
     cout << "Masukkan Nilai UTS: ";
     cin >> uts;
-    cout << "masukkan Nilai UAS: ";
+    cout << "Masukkan Nilai UAS: ";
     cin >> uas;
     double nilaitugas = tugas * 30 / 100;
     double nilaiuts = uts * 30 / 100;
